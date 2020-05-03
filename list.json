@@ -1,0 +1,140 @@
+{
+    "product":[
+        {
+            "SNo":1,
+            "Name":"Rice",
+            "Quantity":"10kg",
+            "Unit":1,
+            "Dept":"Grains",
+            "Notes":"10 kg pkt"
+        },
+        {
+            "SNo":2,
+            "Name":"Sugar",
+            "Quantity":"1 kg",
+            "Unit":2,
+            "Dept":"Grains",
+            "Notes":"2 kg pkt"
+        },
+        {
+            "SNo":3,
+            "Name":"Potato",
+            "Quantity":"2 kg",
+            "Unit":1,
+            "Dept":"Veggies",
+            "Notes":"organic"
+        },
+        {
+            "SNo":4,
+            "Name":"Tomato",
+            "Quantity":"1/2 kg",
+            "Unit":1,
+            "Dept":"Veggies",
+            "Notes":"organic"
+        },
+        {
+            "SNo":5,
+            "Name":"Apple",
+            "Quantity":"1 kg",
+            "Unit":1,
+            "Dept":"Fruits",
+            "Notes":"organic"
+        },
+        {
+            "SNo":6,
+            "Name":"Orange",
+            "Quantity":"1 kg",
+            "Unit":1,
+            "Dept":"Fruits",
+            "Notes":"organic"
+        },
+        {
+            "SNo":7,
+            "Name":"Milk",
+            "Quantity":"1 ltr",
+            "Unit":2,
+            "Dept":"Dairy",
+            "Notes":"2ltr organic"
+        },
+        {
+            "SNo":8,
+            "Name":"Egg",
+            "Quantity":"12 nos",
+            "Unit":1,
+            "Dept":"Dairy",
+            "Notes":"organic"
+        },
+        {
+            "SNo":9,
+            "Name":"Butter",
+            "Quantity":"200 gm",
+            "Unit":1,
+            "Dept":"Dairy",
+            "Notes":"Milma Butter"
+        },
+        {
+            "SNo":10,
+            "Name":"Cream",
+            "Quantity":"1/2 ltr",
+            "Unit":1,
+            "Dept":"Dairy",
+            "Notes":"Amul Cream"
+        },
+        {
+            "SNo":11,
+            "Name":"Pomegranate",
+            "Quantity":"500 gm",
+            "Unit":3,
+            "Dept":"Fruits",
+            "Notes":"Organic Fruit"
+        },
+        {
+            "SNo":12,
+            "Name":"Onion",
+            "Quantity":"1 kg",
+            "Unit":1,
+            "Dept":"Veggies",
+            "Notes":"Big onion"
+        },
+        {
+            "SNo":13,
+            "Name":"Hand Wash",
+            "Quantity":"1/2 ltr",
+            "Unit":1,
+            "Dept":"Toiletries",
+            "Notes":"1/2 ltr dettol"
+        },
+        {
+            "SNo":14,
+            "Name":"Soap",
+            "Quantity":"200 gm",
+            "Unit":2,
+            "Dept":"Toiletries",
+            "Notes":"pears 200gm"
+        },
+        {
+            "SNo":15,
+            "Name":"Paste",
+            "Quantity":"250 gm",
+            "Unit":1,
+            "Dept":"Toiletries",
+            "Notes":"250 gm of colgate"
+        },
+        {
+            "SNo":16,
+            "Name":"Detergent",
+            "Quantity":"1 kg",
+            "Unit":1,
+            "Dept":"Toiletries",
+            "Notes":"1 kg of surf excel"
+        },
+        {
+            "SNo":17,
+            "Name":"Oats",
+            "Quantity":"1/2 kg",
+            "Unit":1,
+            "Dept":"Grains",
+            "Notes":"500gm of Oats"
+        }
+    ]
+}
